@@ -1,0 +1,15 @@
+{
+    "workbench.statusBar.visible": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.labelFormat": "medium",
+    "workbench.editor.showTabs": "none",
+    "terminal.integrated.fontSize": 14,
+    "editor.fontFamily": "Anonymous Pro",
+    "editor.fontSize": 16,
+    "editor.snippetSuggestions": "top",
+    "editor.minimap.enabled": false,
+    "editor.linkedEditing": true,
+    "editor.lineHeight": 0,
+    "editor.tabSize": 4,
+    "workbench.colorTheme": "Atom One Dark",
+}
